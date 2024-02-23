@@ -12,7 +12,7 @@ Python 3
 Selenium
 Data extraction & processing
 Automation
-Key Features (Optional):
+Key Features (Optional): 
 
 Scraped data from [website name] (or similar) to collect information like [list specific data points].
 Implemented robust error handling to manage dynamic content and potential website changes.
